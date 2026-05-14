@@ -9,7 +9,9 @@
 // import Sass from "./Sass/Sass";
 // import State_class from "./State/Class_state/State_class";
 // import State_func from "./State/Func_state/State_func";
-import  MUI from "./MUI/MUI";
+// import  MUI from "./MUI/MUI";
+import Bootstrap from "./Bootstarp/Bootstrap";
+
 
 
 function App() {
@@ -33,10 +35,12 @@ function App() {
         //state
         //<State_class/>
         //<State_func/>
+
+        //<MUI/>
         
       }
 
-      <MUI/>
+      <Bootstrap/>
 
     </div>
   );
