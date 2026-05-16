@@ -10,7 +10,8 @@
 // import State_class from "./State/Class_state/State_class";
 // import State_func from "./State/Func_state/State_func";
 // import  MUI from "./MUI/MUI";
-import Bootstrap from "./Bootstarp/Bootstrap";
+// import Bootstrap from "./Bootstarp/Bootstrap";
+import Dashboard from "./Basic_crud/Dashboard";
 
 
 
@@ -37,11 +38,12 @@ function App() {
         //<State_func/>
 
         //<MUI/>
+        //<Bootstrap/>
+
         
       }
 
-      <Bootstrap/>
-
+      <Dashboard/>
     </div>
   );
 }
